@@ -57,4 +57,4 @@ $route['fleet'] = 'info/fleet';
 $route['info'] = 'info';
 $route['info/flights'] = 'info/info/flights';
 $route['info/fleet'] = 'info/info/fleet';
-$route['flightbooking'] = '/flightbooking';
+$route['flightBooking'] = 'flightBooking';
